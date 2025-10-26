@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PYTHON = "C:\\Users\\tanuj\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+        PYTHON = "C:\Users\tanuj\AppData\Local\Programs\Python\Python313\python.exe"
     }
 
     stages {
